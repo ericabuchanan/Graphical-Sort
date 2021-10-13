@@ -1,0 +1,43 @@
+# depslib dependency file v1.0
+1624041079 source:c:\users\erica\documents\github\graphicalsort-erica-buchanan\buchanan_sort\main.cpp
+	<vector>
+	<iostream>
+	<bits/stdc++.h>
+	"QuickSort.h"
+	"InsertionSort.h"
+	"BubbleSort.h"
+
+1624038486 source:c:\users\erica\documents\github\graphicalsort-erica-buchanan\buchanan_sort\list.cpp
+	"List.h"
+
+1624037585 c:\users\erica\documents\github\graphicalsort-erica-buchanan\buchanan_sort\list.h
+	<vector>
+	<time.h>
+	<iostream>
+	<allegro5/allegro.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_primitives.h>
+
+1623862724 source:c:\users\erica\documents\github\graphicalsort-erica-buchanan\buchanan_sort\allegrofunctions.cpp
+	"List.h"
+
+1624041005 source:c:\users\erica\documents\github\graphicalsort-erica-buchanan\buchanan_sort\insertionsort.cpp
+	"InsertionSort.h"
+
+1624041046 c:\users\erica\documents\github\graphicalsort-erica-buchanan\buchanan_sort\insertionsort.h
+	"List.h"
+
+1624040183 source:c:\users\erica\documents\github\graphicalsort-erica-buchanan\buchanan_sort\quicksort.cpp
+	"QuickSort.h"
+
+1624040184 c:\users\erica\documents\github\graphicalsort-erica-buchanan\buchanan_sort\quicksort.h
+	"List.h"
+
+1624041003 source:c:\users\erica\documents\github\graphicalsort-erica-buchanan\buchanan_sort\bubblesort.cpp
+	"BubbleSort.h"
+
+1624040301 c:\users\erica\documents\github\graphicalsort-erica-buchanan\buchanan_sort\bubblesort.h
+	"List.h"
+
